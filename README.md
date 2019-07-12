@@ -1,7 +1,7 @@
-# Java Password Generator
+# Java Secure Password Generator
 Creator: Ben Mighall
 
-This password generator is built using Java's "SecureRandom" functionality, and generates valid, secure passwords for use on websites. 
+This secure password generator is built using Java's "SecureRandom" functionality, and generates valid, secure passwords for use on websites. 
 
 The code is relatively simple, with four methods. First, the two helper methods: 
 * mergeCharLists(): Merges an array of char arrays (or charList, as it's referred to in the program) passed to it in the parameters into a single character list, randomizes it using SecureRandom, then returns it
